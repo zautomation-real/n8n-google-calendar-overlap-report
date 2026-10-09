@@ -6,6 +6,8 @@ Plantilla de [Webs del Camp](https://websdelcamp.cat/es/automatizaciones?utm_sou
 
 ## Probar el ejemplo
 
+También puedes abrir la plantilla desde el [catálogo oficial de n8n](https://n8n.io/workflows/20384-report-overlapping-google-calendar-appointments-by-email-with-gmail/).
+
 1. Descarga [google-calendar-overlap-report.json](google-calendar-overlap-report.json) e impórtalo en n8n.
 2. Mantén `demo_mode` en `true` dentro de **Configure calendar and report**.
 3. Ejecuta **Run a manual check** y abre el resultado de **Inspect the audit result**.
